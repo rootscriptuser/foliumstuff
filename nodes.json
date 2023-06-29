@@ -1,0 +1,163 @@
+[
+  {
+	"type": "Node",
+	"callsign": "S55YKB",
+	"name": "Kuk",
+	"coordinates": [ 13.61882 , 46.19616 ],
+	"url": "/node/S55YKB"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YSX",
+	"name": "Sv. Rok",
+	"coordinates": [ 15.30816 , 46.02149 ],
+	"url": "/node/S55YSX"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YTR",
+	"name": "Sv. Planina",
+	"coordinates": [ 15.02285 , 46.17531 ],
+	"url": "/node/S55YTR"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YSN",
+	"name": "Kokoška",
+	"coordinates": [ 13.89998 , 45.64461 ],
+	"url": "/node/S55YSN"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YKV",
+	"name": "Krvavec",
+	"coordinates": [ 14.53675 , 46.29967 ],
+	"url": "/node/S55YKV"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YLJ",
+	"name": "Krim",
+	"coordinates": [ 14.47100 , 45.92858 ],
+	"url": "/node/S55YLJ"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YKP",
+	"name": "Nanos",
+	"coordinates": [ 14.05263 , 45.77166 ],
+	"url": "/node/S55YKP"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YSG",
+	"name": "Korada",
+	"coordinates": [ 13.55935 , 46.06531 ],
+	"url": "/node/S55YSG"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YGV",
+	"name": "Ermanovec",
+	"coordinates": [ 14.07033, 46.09574 ],
+	"url": "/node/S55YGV"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YJV",
+	"name": "Javornik",
+	"coordinates": [ 14.07189 , 45.89589 ],
+	"url": "/node/S55YJV"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YHF",
+	"name": "Kum",
+	"coordinates": [ 15.07228, 46.08764 ],
+	"url": "/node/S55YHF"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YBR",
+	"name": "Kobariški Stol",
+	"coordinates": [ 13.45331 , 46.27077 ],
+	"url": "/node/S55YBR"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YAR",
+	"name": "Stol",
+	"coordinates": [ 14.17484 , 46.43132 ],
+	"url": "/node/S55YAR" 
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YZA",
+	"name": "Mrzlica",
+	"coordinates": [ 15.10746 , 46.18749 ],
+	"url": "/node/S55YZA"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YTO",
+	"name": "Poljubinske Ravne",
+	"coordinates": [ 13.76302 , 46.17611 ],
+	"url": "/node/S55YTO"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YSE",
+	"name": "Laze",
+	"coordinates": [ 15.2795, 45.9858 ],
+	"url": "/node/S55YSE"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YRI",
+	"name": "Travna gora",
+	"coordinates": [ 14.63902 , 45.74913 ],
+	"url": "/node/S55YRI"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YNM",
+	"name": "Trdinov vrh",
+	"coordinates": [ 15.31700 , 45.76018 ],
+	"url": "/node/S55YNM"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YLM",
+	"name": "Ljubljana mesto",
+	"coordinates": [ 14.50376 , 46.05024 ],
+	"url": "/node/S55YLM"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YTB",
+	"name": "Zgornji Kocjan",
+	"coordinates": [ 16.04488 , 46.61360 ],
+	"url": "/node/S55YTB"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YLE",
+	"name": "Lendava",
+	"coordinates": [ 16.46824 , 46.56757 ],
+	"url": "/node/S55YLE"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YCM",
+	"name": "Malič",
+	"coordinates": [ 15.20804 , 46.18334 ],
+	"url": "/node/S55YCM"
+  },
+  {
+	"type": "Node",
+	"callsign": "S55YLI",
+	"name": "Lisca",
+	"coordinates": [ 15.28491 , 46.06758 ],
+	"url": "/node/S55YLI"
+  }
+]
